@@ -4,9 +4,10 @@
 1. Ludwig, M. Q. et al. A genetic map of the mouse dorsal vagal complex and its role in 
 obesity. Nat. Metab. 3, 530–545 (2021) - Citation number 31
 
-2. Mouse dorsal vagal complex article's [data availability section] (https://www.nature.com/articles/s42255-021-00363-1#data-availability):
+2. Mouse dorsal vagal complex article's [data availability section](https://www.nature.com/articles/s42255-021-00363-1#data-availability):
 
 >Data availability
+>
 >All genetic data generated in this study (bulk RNA-seq, snRNA-seq and >snATAC–seq) are available in the GEO under SuperSeries accession number >GSE166649. All other data are available from the authors upon >reasonable request. Source data are provided with this paper.
 
 [GEO SuperSeries](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE166649)
