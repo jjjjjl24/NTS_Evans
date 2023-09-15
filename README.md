@@ -10,9 +10,7 @@ obesity. Nat. Metab. 3, 530–545 (2021) - Citation number 31
 >
 >All genetic data generated in this study (bulk RNA-seq, snRNA-seq and >snATAC–seq) are available in the GEO under SuperSeries accession number >GSE166649. All other data are available from the authors upon >reasonable request. Source data are provided with this paper.
 
-[GEO SuperSeries](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE166649)
-
-2. GEO SuperSeries - Contains bulk RNA Seq and single cell RNA seq data and also ATAC data. Each has a meta, normalized, and not normalized version. 
+2. [GEO SuperSeries](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE166649) - Contains bulk RNA Seq and single cell RNA seq data and also ATAC data. Each has a meta, normalized, and not normalized version. 
 
 3. Single Cell RNA-seq and ATAC-seq. [Series GSE 166648](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE166648)
 
